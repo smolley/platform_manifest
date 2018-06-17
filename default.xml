@@ -16,6 +16,10 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
+  <remote  name="smolley"
+           fetch="https://github.com/"
+           revision="oreo-rr" />
+
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
